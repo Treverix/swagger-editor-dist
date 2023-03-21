@@ -1,0 +1,2 @@
+import*as e from"monaco-editor/esm/vs/editor/editor.worker.js";var i={d:(e,r)=>{for(var o in r)i.o(r,o)&&!i.o(e,o)&&Object.defineProperty(e,o,{enumerable:!0,get:r[o]})},o:(e,i)=>Object.prototype.hasOwnProperty.call(e,i)},r={};i.d(r,{iR:()=>t,Ue:()=>a,j2:()=>o.initialize});const o=(e=>{var r={};return i.d(r,e),r})({initialize:()=>e.initialize}),t=null,a=()=>t;globalThis.onmessage=()=>{(0,o.initialize)((()=>a()))};var n=r.iR,l=r.Ue,s=r.j2;export{n as EditorWorker,l as create,s as initialize};
+//# sourceMappingURL=editor.worker.js.map
